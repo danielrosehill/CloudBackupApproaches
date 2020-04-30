@@ -4,7 +4,7 @@
 
 <p>1. Download a full account backup by using the 'Backup' option in Cpanel. Note: this is not the same thing as any proprietary backup/restore scripts that your host may have installed for you, such as JetBackup.
 
-![backup](/images/cpanel1.png)
+![backup](/images/cpanel_1.png)
 
 <p>2. Generate a full system backup. This will include files, MySQL databases, and everything else you need to restore the Cpanel in the event that you move host (restore process and user access to restore process varies by host.)
 
