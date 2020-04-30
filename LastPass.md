@@ -2,6 +2,8 @@
 
 ### Updated 01/05/20
 
+Rating (/5): ⭐⭐
+
 
 <p>1. Log in to your LastPass via the web UI.</p>
 
