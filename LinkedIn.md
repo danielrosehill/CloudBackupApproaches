@@ -1,6 +1,6 @@
-#LinkedIn User Data Export
+# LinkedIn User Data Export
 
-###Updated 05/01/20
+### Updated 05/01/20
 
 <p>1. Visit settings and privacy: https://www.linkedin.com/psettings/</p>
 
