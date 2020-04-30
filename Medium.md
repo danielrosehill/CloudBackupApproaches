@@ -1,5 +1,11 @@
 # Medium
 
+### Updated 01/05/20
+
+Rating (/5): ⭐⭐
+
+Notes: User images, stored in CDN, not included in export archive!
+
 ### Screenshots and information updated: 01/05/20
 
 <p>1. Log into your Medium account.</p>

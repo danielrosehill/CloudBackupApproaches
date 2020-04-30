@@ -1,5 +1,9 @@
 # Cpanel
 
+### Updated 01/05/20
+
+Rating (/5): ⭐⭐⭐⭐⭐
+
 <p>Clearly exact backup strategies are going to vary according to the nature of your web infrastructure. However, if you're using a simple shared/reseller provider with Cpanel then the process is pretty straightforwrard.</p>
 
 <p>1. Download a full account backup by using the 'Backup' option in Cpanel. Note: this is not the same thing as any proprietary backup/restore scripts that your host may have installed for you, such as JetBackup.
