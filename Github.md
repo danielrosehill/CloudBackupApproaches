@@ -2,6 +2,12 @@
 
 ### Updated: 01/05/20
 
+### Updated 01/05/20
+
+Rating (/5): ⭐⭐⭐⭐
+
+Notes: No direct means to export all user repositories in one archive
+
 <p>You can clone your repositories directly over a CLI to a storage location like S3.</p>
 
 <p>Alternatively you can manually download each archive and then upload it to S3 over a GUI.

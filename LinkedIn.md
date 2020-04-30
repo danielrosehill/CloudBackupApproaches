@@ -2,6 +2,8 @@
 
 ### Updated 05/01/20
 
+Rating: ⭐⭐⭐⭐ (/5)
+
 <p>1. Visit settings and privacy: https://www.linkedin.com/psettings/</p>
 
 ![Requesting Data](/images/0108.png)

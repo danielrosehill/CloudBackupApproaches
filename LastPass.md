@@ -4,6 +4,8 @@
 
 Rating (/5): ⭐⭐
 
+Notes: Workaround required. No native export functionality. 
+
 
 <p>1. Log in to your LastPass via the web UI.</p>
 

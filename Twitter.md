@@ -2,6 +2,10 @@
 
 ### Updated 05/01/20
 
+Rating (/5): ⭐⭐⭐⭐
+
+Notes: Easy and quick self service backup process with full archive presented including user media 
+
 <p>1. To download your Twitter data, log in to Twitter and navigate to the 'Data and permissions' menu.</p>
 
 <p>2. Click on 'Your Twitter Data'</p>

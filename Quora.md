@@ -2,6 +2,13 @@
 
 ### Updated: 01/05/20
 
+### Updated 05/01/20
+
+Rating: ⭐⭐⭐ (/5)
+
+Notes: Exports can be taken by request data from support; no self-service option at time of writing
+
+
 <p>You need to make a data request to access your Quora data. 
 
 <p>Click on 'Help' under settings to access the help center

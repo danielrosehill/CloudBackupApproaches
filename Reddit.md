@@ -2,6 +2,10 @@
 
 ### Update: 01/05/20
 
+Rating: ⭐⭐⭐ (/5)
+
+Notes: No self-service option at time of writing. Users need to request data archive from support. 
+
 <p>You can backup your Reddit posts by making a data request.</p>
 
 <p>Search the help center for data and find the resource about requesting a copy of your data.

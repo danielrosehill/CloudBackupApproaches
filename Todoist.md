@@ -2,6 +2,10 @@
 
 ### Last updated: 01/05/20
 
+Rating (/5): ⭐⭐⭐⭐⭐
+
+Notes: Snapshots continuously available for self service download by user
+
 <p>1. Under 'Settings' click on 'Backups'
 
 ![Backups](/images/0133.png) 
