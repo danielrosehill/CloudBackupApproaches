@@ -1,40 +1,42 @@
-# Quora
+# Reddit
 
-### Updated: 01/05/20
+### Update: 01/05/20
 
-<p>You need to make a data request to access your Quora data. 
+<p>You can backup your Reddit posts by making a data request.</p>
 
-<p>Click on 'Help' under settings to access the help center
+<p>Search the help center for data and find the resource about requesting a copy of your data.
 
-![Quora](/images/quora_2.png)
+![Reddit help center](/images/reddit_1.png)
 
-<p>Look under the help center for 'Data Privacy, GDPR ... and CCPA'
+<p>That advises you to visit:<br/>
+https://www.reddit.com/settings/data-request</p>
 
-![Quora](/images/quora_1.png)
 
-<p>There’s an option here entitled, “Can I Get a Copy of my Data’. Click on it:
+<p>Request an archive of your data.<br/>
 
-Its URL is currently:<br/>
-https://help.quora.com/hc/en-us/articles/360000839503-Can-I-get-a-copy-of-my-data-
+![Reddit help center](/images/reddit_2.png)
 
-Scroll down to the ‘Can I Get a Copy of My Data?’
+<p>In a little while /u/RedditDataRequests will get back to you with your archive:
 
-![Quora](/images/quora_3.png)
 
-Follow the instructions and within 72 hours, as stated, you will get your data by email.
+![Reddit help center](/images/reddit_3.png)
 
-![Quora](/images/quora_4.png)
+<p>All your account activity should be in the archive:
 
-My archive came in a little over 24 hours.
 
-Quora will give you two archives: data and content. Content contains your answers and images:
+![Reddit help center](/images/reddit_4.png)
 
-![Quora](/images/quora_5.png)
+This includes:
 
-The HTML file which the process outputs looks like this in a web browser:
+* Your posts
+* Your comments
+* Your IP log
+* Your chat history
+* Your hidden posts 
+* The subreddits
 
-![Quora](/images/quora_6.png)
+</p>
 
-Of course, if keep the images in the same folder you will get the images as well where you have them in your answers:
+<p>Data is quite nicely formatted:
 
-![Quora](/images/quora_7.png)
+![Reddit help center](/images/reddit_5.png)
