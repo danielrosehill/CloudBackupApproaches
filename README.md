@@ -1,5 +1,10 @@
+edium
 # Cloud Backup Approaches
 In this repository I will endeavor to maintain up to date documentation regarding how to backup your (user) data from various commonly used cloud services providers. 
+
+# Summaries
+
+[https://medium.com/daniels-tech-world/user-data-export-approaches-of-saas-cloud-service-social-media-providers-an-overview-2101f6e8bd27?source=friends_link&sk=0fa880e506f3ba5adfed6eb81ad62e62] ("User Data Export Approaches of SaaS / Cloud Service / Social Media Providers — An Overview," Medium, 01-05-20)
 
 # Services documented:
 
