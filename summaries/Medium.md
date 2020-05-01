@@ -2,6 +2,8 @@
 
 ### Updated 01/05/20
 
+[Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
+
 Rating (/5): ⭐⭐
 
 Notes: User images, stored in CDN, not included in export archive!

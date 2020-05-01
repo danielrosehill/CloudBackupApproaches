@@ -2,6 +2,8 @@
 
 ## Updated 05/01/20
 
+[Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
+
 Facebook has a dedicated 'Download Your Information' Tool.
 
 ![FB](/images/fb_1.png)

@@ -2,6 +2,8 @@
 
 ### Update: 01/05/20
 
+[Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
+
 Rating: ⭐⭐⭐ (/5)
 
 Notes: No self-service option at time of writing. Users need to request data archive from support. 

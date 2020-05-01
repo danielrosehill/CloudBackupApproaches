@@ -2,6 +2,8 @@
 
 ### Last updated: 01/05/20
 
+[Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
+
 Rating (/5): ⭐⭐⭐⭐⭐
 
 Notes: Snapshots continuously available for self service download by user

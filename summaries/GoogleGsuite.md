@@ -2,6 +2,8 @@
 
 ### Updated 01/05/2020
 
+[Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
+
 <p>Generated a Google Takeout has been thoroughly documented on the internet!</p>
 
 ![google](/images/google1.png)

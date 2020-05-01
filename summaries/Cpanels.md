@@ -2,6 +2,8 @@
 
 ### Updated 01/05/20
 
+[Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
+
 Rating (/5): ⭐⭐⭐⭐⭐
 
 <p>Clearly exact backup strategies are going to vary according to the nature of your web infrastructure. However, if you're using a simple shared/reseller provider with Cpanel then the process is pretty straightforwrard.</p>

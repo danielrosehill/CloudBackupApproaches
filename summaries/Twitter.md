@@ -2,6 +2,8 @@
 
 ### Updated 05/01/20
 
+[Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
+
 Rating (/5): ⭐⭐⭐⭐
 
 Notes: Easy and quick self service backup process with full archive presented including user media 
