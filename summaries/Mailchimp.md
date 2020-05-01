@@ -2,6 +2,8 @@
 
 ### Updated 05/01/20
 
+[Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
+
 Click on 'Manage My Data' under 'Settings':
 
 ![MC](/images/mc1.png)
