@@ -1,9 +1,11 @@
 # Cloud Backup Approaches
 In this repository I will endeavor to maintain up to date documentation regarding how to backup your (user) data from various commonly used cloud services providers. 
 
-# Summaries
+# Summaries:
 
 ["User Data Export Approaches of SaaS / Cloud Service / Social Media Providers — An Overview," (Daniel Rosehill /  Medium / 01-05-20)](https://medium.com/daniels-tech-world/user-data-export-approaches-of-saas-cloud-service-social-media-providers-an-overview-2101f6e8bd27?source=friends_link&sk=0fa880e506f3ba5adfed6eb81ad62e62)
+
+<hr>
 
 # Services documented:
 
@@ -22,9 +24,8 @@ In this repository I will endeavor to maintain up to date documentation regardin
 | [Todoist](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/Todoist.md) | On demand |
 | [Twitter](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/Twitter.md) | On demand |
 
+<hr>
 
-
-
-## Example: LinkedIn
+## Example service documentation: LinkedIn
 
 ![LinkedIn](/images/0108.png)
