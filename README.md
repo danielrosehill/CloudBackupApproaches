@@ -20,6 +20,7 @@ In this repository I will endeavor to maintain up to date documentation regardin
 | [Green Invoice](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/GreenInvoice.md) | On-demand |
 | [LastPass](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/LastPass.md) | Workaround |
 | [LinkedIn](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/LinkedIn.md) | On-demand |
+| [Mailchimp](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Mailchimp.md) | On-demand exports |
 | [Medium](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Medium.md) | On-demand (but no images) |
 | [Quora](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Quora.md) | Data request via support |
 | [Reddit](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Reddit.md) | Data request via support |
