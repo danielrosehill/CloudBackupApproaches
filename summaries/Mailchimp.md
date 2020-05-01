@@ -12,7 +12,7 @@ Your data backup will get built.
 
 Mailchimp will send you an email when the file is built.
 
-![MC](/images/mc2.png)
+![MC](/images/mc22.png)
 
 The archive is packaged into folders:
 
