@@ -16,6 +16,7 @@ In this repository I will endeavor to maintain up to date documentation regardin
 | [Cpanels](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Cpanels.md) | On-demand exports |
 | [Facebook](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Facebook.md) | On-demand exports |
 | [Github](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Github.md) | CLI / download |
+| [GoodReads](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Goodreads.md) | CSV export |
 | [Google / Gsuite](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/GoogleGsuite.md) | Takeouts |
 | [Green Invoice](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/GreenInvoice.md) | On-demand |
 | [LastPass](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/LastPass.md) | Workaround |
