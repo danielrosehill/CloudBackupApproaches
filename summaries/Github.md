@@ -1,21 +1,43 @@
 # Github
 
-### Updated: 01/05/20
+### Updated: 11/05/20
 
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
 
 Rating (/5): ⭐⭐⭐⭐
 
-Notes: No direct means to export all user repositories in one archive
+## Main method
 
-<p>You can clone your repositories directly over a CLI to a storage location like S3.</p>
+Under 'account settings' there is an option called 'Export accound data':
 
-<p>Alternatively you can manually download each archive and then upload it to S3 over a GUI.
+![](/images/gh1.png)
 
-![Download_repo](/images/0140.png)
+Clicking the 'New export' button will generate an export containing all the user's repositories and metadata.
 
-<p>After using CrossFTP to upload repositories to a backup bucket.
+It will be available for download for 7 days.
 
-![Github repos](/images/0142.png)
+A few minutes later the user receives an email like this:
+
+![](/images/gh3.png)
+
+The export, which is delivered as a .tar.gz archive, will contain three JSON files and one archive containing all the uesr's repositories:
+
+![](/images/gh4.png)
+
+The directory at 
+
+```
+/repositories
+```
+
+Contains all the user's repositories:
+
+![](/images/gh5.png)
 
 
+## Workaround
+
+A  user can also simply compress and download an archive of all his/her repositories, although this will not capture the user metadata.
+
+
+![](/images/gh2.png)
