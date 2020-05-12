@@ -29,6 +29,7 @@ danielrosehill.co.il
 
 | Service | Methodology |
 | --- | --- |
+| [Asana](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Apanels.md) | On-demand exports |
 | [Cpanels](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Cpanels.md) | On-demand exports |
 | [Facebook](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Facebook.md) | On-demand exports |
 | [Github](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Github.md) | CLI / download |
