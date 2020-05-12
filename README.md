@@ -1,5 +1,21 @@
 # Cloud Backup Approaches
+
 In this repository I will endeavor to maintain up to date documentation regarding how to backup your (user) data from various commonly used cloud services providers. 
+
+Please note: this repository is being automatically synced from Github to [Gitbook](https://danielrosehill.gitbook.io/saas-backup-approaches/). If you are accessing this from the latter, please use the menu in the left sidebar to navigate and not the table of contents below.
+
+I am still searching for a tool that:
+
+- Automatically exports all SaaS applications and sync them cloud-to-cloud to commonly supported object storage buckets (but especially Backblaze B2)
+
+For my latest master backup strategy — covering both the cloud and the Linux desktop — [please visit this repository](https://github.com/danielrosehilljlm/Master_Backup_Strategy). 
+
+If you have feedback or would like to contribute to the summaries, please be in touch. 
+
+*** Author:
+
+Daniel Rosehill
+danielrosehill.co.il
 
 **Keywords**: Data governance, user data exports, data portabiliity, SaaS, cloud
 
