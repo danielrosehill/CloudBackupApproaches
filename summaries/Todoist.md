@@ -2,6 +2,10 @@
 
 ### Last updated: 01/05/20
 
+**Updated:** 01/05/20
+**Type:** Snapshots available for instantaneous download
+**Output format:** CSV files; images and content added as comments not included
+
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
 
 Rating (/5): ⭐⭐⭐⭐⭐

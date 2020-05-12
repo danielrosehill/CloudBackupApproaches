@@ -1,6 +1,8 @@
 # Cpanel
 
-### Updated 01/05/20
+**Updated:** 01/05/20
+**Type:** On-demand
+**Output format:** Compressed archive (.tar.gz) of full web hosting account.
 
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
 

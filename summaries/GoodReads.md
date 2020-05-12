@@ -2,6 +2,10 @@
 
 ### Updated 03/05/20
 
+**Updated:** 03/05/20
+**Type:** On demand; single file
+**Output format:** CSV
+
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
 
 GoodReads is a social network style website for reviewing books. Its export functionality is rather simple and [described here](https://help.goodreads.com/s/article/How-do-I-import-or-export-my-books-1553870934590).

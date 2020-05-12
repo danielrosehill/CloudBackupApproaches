@@ -2,6 +2,10 @@
 
 ### Updated 05/01/20
 
+**Updated:** 01/05/20
+**Type:** On-demand; full account
+**Output format:** Downloadable archives 
+
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
 
 Click on 'Manage My Data' under 'Settings':

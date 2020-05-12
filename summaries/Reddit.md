@@ -2,6 +2,10 @@
 
 ### Update: 01/05/20
 
+**Updated:** 01/05/20
+**Type:** By data request
+**Output format:** Downloadable archive
+
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
 
 Rating: ⭐⭐⭐ (/5)

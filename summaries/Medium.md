@@ -2,6 +2,10 @@
 
 ### Updated 01/05/20
 
+**Updated:** 01/05/20
+**Type:** On-demand export
+**Output format:** Downloadable Zip archive of articles. Images not included.
+
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
 
 Rating (/5): ⭐⭐
