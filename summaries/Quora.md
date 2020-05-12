@@ -2,8 +2,8 @@
 
 ### Updated: 01/05/20
 
-**Updated:** 01/05/20
-**Type:** By data request
+**Updated:** 01/05/20 <br/>
+**Type:** By data request  <br/>
 **Output format:** Downloadable archive
 
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)

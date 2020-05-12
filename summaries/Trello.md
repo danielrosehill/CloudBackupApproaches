@@ -1,7 +1,7 @@
 ## Trello export approach
 
-**Updated:** 12/05/20
-**Type:** On-demand
+**Updated:** 12/05/20 <br/>
+**Type:** On-demand <br/>
 **Output format:** Single JSON file
 
 Trello's user data export approach is fairly rudimentary.

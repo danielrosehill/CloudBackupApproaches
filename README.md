@@ -42,6 +42,7 @@ danielrosehill.co.il
 | [Quora](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Quora.md) | Data request via support |
 | [Reddit](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Reddit.md) | Data request via support |
 | [Todoist](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Todoist.md) | On demand |
+| [Trello](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Trello.md) | On demand |
 | [Twitter](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Twitter.md) | On demand |
 
 <hr>

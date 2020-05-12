@@ -2,8 +2,8 @@
 
 ### Updated 01/05/20
 
-**Updated:** 01/05/20
-**Type:** On-demand; single file
+**Updated:** 01/05/20 <br/>
+**Type:** On-demand; single file <br/>
 **Output format:** PHP output
 
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
