@@ -29,22 +29,22 @@ danielrosehill.co.il
 
 | Service | Methodology |
 | --- | --- |
-| [Asana](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Asana.md) | On-demand exports |
-| [Cpanels](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Cpanels.md) | On-demand exports |
-| [Facebook](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Facebook.md) | On-demand exports |
-| [Github](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Github.md) | CLI / download |
-| [GoodReads](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/GoodReads.md) | CSV export |
-| [Google / Gsuite](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/GoogleGsuite.md) | Takeouts |
-| [Green Invoice](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/GreenInvoice.md) | On-demand |
-| [LastPass](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/LastPass.md) | Workaround |
-| [LinkedIn](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/LinkedIn.md) | On-demand |
-| [Mailchimp](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Mailchimp.md) | On-demand exports |
-| [Medium](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Medium.md) | On-demand (but no images) |
-| [Quora](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Quora.md) | Data request via support |
-| [Reddit](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Reddit.md) | Data request via support |
-| [Todoist](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Todoist.md) | On demand |
-| [Trello](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Trello.md) | On demand |
-| [Twitter](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Twitter.md) | On demand |
+| [Asana](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Asana.md) | Enterprise tier (paid) only |
+| [Cpanels](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Cpanels.md) | On-demand exports through native functionality |
+| [Facebook](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Facebook.md) | On-demand exports to archive; users can control contents |
+| [Github](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Github.md) | Repositories exported in .git format |
+| [GoodReads](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/GoodReads.md) | Single file on-demand CSV export |
+| [Google / Gsuite](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/GoogleGsuite.md) | Google Takeouts automated export engine |
+| [Green Invoice](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/GreenInvoice.md) | On-demand by document type |
+| [LastPass](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/LastPass.md) | Exports single PHP file |
+| [LinkedIn](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/LinkedIn.md) | On-demand archives; users can control contents |
+| [Mailchimp](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Mailchimp.md) | On-demand exports to download archive |
+| [Medium](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Medium.md) | On-demand Zip archives but images locked in Medium CDN |
+| [Quora](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Quora.md) | Data request via support.  |
+| [Reddit](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Reddit.md) | Data request via support; honored within 30 days |
+| [Todoist](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Todoist.md) | Automatically generated snapshots but no enriched content (images/comment media) |
+| [Trello](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Trello.md) | On demand generation of a single JSON file |
+| [Twitter](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Twitter.md) | On demand generation of download archives containing all user data |
 
 <hr>
 
