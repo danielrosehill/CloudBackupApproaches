@@ -4,6 +4,8 @@
 
 **Updated:** 01/05/20 <br/>
 **Type:** Snapshots available for instantaneous download <br/>
+**Automated**? Yes <br/>
+**On demand:** Yes <br/>
 **Output format:** CSV files; images and content added as comments not included
 
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)

@@ -2,6 +2,8 @@
 
 **Updated:** 11/05/20 <br/>
 **Type:** On demand <br/>
+**Automated**? Yes <br/>
+**On demand:** Yes <br/>
 **Output format:** Archive with repositories in .git format. Alternatively, users can simply compress their archives directly.
 
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)

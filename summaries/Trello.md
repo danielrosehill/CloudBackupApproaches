@@ -2,6 +2,8 @@
 
 **Updated:** 12/05/20 <br/>
 **Type:** On-demand <br/>
+**Automated**? No <br/>
+**On demand:** Yes <br/>
 **Output format:** Single JSON file
 
 Trello's user data export approach is fairly rudimentary.

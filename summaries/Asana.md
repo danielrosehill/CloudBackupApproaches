@@ -1,7 +1,8 @@
 ## Cloud backup approach: Asana
 
-**Date updated: 12/05/20
-**On demand: Yes
+**Date updated:** 12/05/20 <br/>
+**Automated**? No <br/>
+**On demand:** No <br/>
 
 ## Data export approach: Asana
 

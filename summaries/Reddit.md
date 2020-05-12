@@ -4,6 +4,8 @@
 
 **Updated:** 01/05/20 <br/>
 **Type:** By data request <br/>
+**Automated**? No <br/>
+**On demand:** Once every 30 days <br/>
 **Output format:** Downloadable archive
 
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)

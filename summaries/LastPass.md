@@ -4,6 +4,8 @@
 
 **Updated:** 01/05/20 <br/>
 **Type:** On-demand; single file <br/>
+**Automated**? No <br/>
+**On demand:** Yes <br/>
 **Output format:** PHP output
 
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)

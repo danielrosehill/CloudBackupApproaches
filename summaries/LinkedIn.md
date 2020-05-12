@@ -4,6 +4,8 @@
 
 **Updated:** 05/05/20 <br/>
 **Type:** On-demand with options <br/>
+**Automated**? Yes <br/>
+**On demand:** Yes <br/>
 **Output format:** Downloadable archives 
 
 [Return to index](https://github.com/danielrosehilljlm/CloudBackupApproaches)
