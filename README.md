@@ -53,13 +53,10 @@ danielrosehill.co.il
 
 | Service | Notes |
 | --- | --- |
-| [Cloudflare | [cf-terraforming](https://github.com/cloudflare/cf-terraforming) achieves similar functinality |
+| Cloudflare | [cf-terraforming](https://github.com/cloudflare/cf-terraforming) achieves similar functinality |
 | Soundcloud | Uses have to download their own tracks one-by-one! |
 
-| Service | Methodology |
-| --- | --- |
-| [Asana](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Asana.md) | Enterprise tier (paid) only |
-| [Asana](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Asana.md) | Enterprise tier (paid) only |
+
 
 
 
