@@ -38,6 +38,22 @@ Contains all the user's repositories:
 
 ![](/images/gh5.png)
 
+## Backup export structure (full)
+
+| File  | Contains |
+| ------------- | ------------- |
+| repositories (folder)  | All user directories  |
+| repositories_000001.json  | List of user respositories  |
+| schema.json  | Github version  |
+| users_000001  | List of account users  |
+
+And what's not included:
+
+- Wikis (each repository's Wiki is its own repository
+- Starred projects 
+- List of users following and followers
+- Projects
+
 
 ## Workaround
 
