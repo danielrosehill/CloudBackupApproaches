@@ -22,6 +22,14 @@ Rating: ⭐⭐⭐⭐ (/5)
 
 ![Content](/images/0111.png)
 
+
+The export process can be completed in as little as ten minutes if you only opt to export connections:
+
+![](/images/li1.png)
+
+
+
+
 <p>4. Request the archive.
 
 ![Archive](/images/0112.png)
@@ -29,3 +37,18 @@ Rating: ⭐⭐⭐⭐ (/5)
 The full archive is ready for download.
 
 <p>5. Inspect data.</p>
+
+Everything you requested will be compressed within a Zip archive:
+
+![](/images/li2.png)
+
+For example, your connections will be exported as a comma separated values file (CSV) with headings for:
+
+- First name
+- Last name
+- Email address
+- Company
+- Position
+- Date connected on
+
+![](/images/li3.png)
