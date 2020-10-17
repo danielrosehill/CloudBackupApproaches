@@ -40,7 +40,7 @@ danielrosehill.co.il
 | [LinkedIn](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/LinkedIn.md) | On-demand archives; users can control contents |
 | [Mailchimp](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Mailchimp.md) | On-demand exports to download archive |
 | [Medium](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Medium.md) | On-demand Zip archives but images locked in Medium CDN |
-| [Medium](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Notion.md) | On-demand per workspace archives in PDF, HTML or CSV + JSON |
+| [Notion](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Notion.md) | On-demand per workspace archives in PDF, HTML or CSV + JSON |
 | [Quora](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Quora.md) | Data request via support.  |
 | [Reddit](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Reddit.md) | Data request via support; honored within 30 days |
 | [Todoist](https://github.com/danielrosehilljlm/CloudBackupApproaches/blob/master/summaries/Todoist.md) | Automatically generated snapshots but no enriched content (images/comment media) |
